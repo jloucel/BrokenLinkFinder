@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="DB_Utils">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/DB_Utils" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/DB_Utils" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/DB_Utils" recursive="false" />
+  </library>
+</component>

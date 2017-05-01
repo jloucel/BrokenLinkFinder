@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BrokenLinkFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrokenLinkFinder_jar</output-path>
+    <root id="archive" name="BrokenLinkFinder.jar">
+      <element id="module-output" name="BrokenLinkFinder" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Driver_Utils/client-combined-3.0.1-nodeps.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Driver_Utils/selenium-server-standalone-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/DB_Utils/sqlite-jdbc-3.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Addins/miglayout-4.0-swing.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

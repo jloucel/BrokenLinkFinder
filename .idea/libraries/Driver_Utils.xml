@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Driver_Utils">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Driver_Utils" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Driver_Utils" recursive="false" />
+  </library>
+</component>
